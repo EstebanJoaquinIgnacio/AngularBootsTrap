@@ -2,9 +2,9 @@ https://v4-alpha.getbootstrap.com/getting-started/download/
 https://ng-bootstrap.github.io/#/getting-started (ngboostrap)
 ngxbootrap
 
-npm install --save @ng-bootstrap/ng-bootstrap (agrego al proyecto)
 npm install bootstrap@4.0.0-alpha.6 (instalo el boostrap)
 npm install bootstrap@4.0.0-alpha.6 font-awesome --save (instala una funcion de boostraps, o biblioteca, o algo XD)
+npm install --save @ng-bootstrap/ng-bootstrap (agrego al proyecto)
 
 https://medium.com/@beeman/tutorial-add-bootstrap-to-angular-cli-apps-b0a652f2eb2
 en el STYLE.CSS
